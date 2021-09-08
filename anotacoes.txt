@@ -1,0 +1,3 @@
+abrir o terminal chamado o python
+- import secrets
+- secrets.token_hex(16)
